@@ -6,7 +6,8 @@ import joblib
 import pandas as pd
 import time
 
-
+# Set the page config to wide mode
+st.set_page_config(layout="wide")
 
 
 # loading model and list of symptoms
