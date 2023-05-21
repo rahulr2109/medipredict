@@ -26,22 +26,7 @@ navbar="""<nav
     position: sticky;
   "
 >
-  <a
-    class="navbar-brand"
-    href="/index"
-    style="color: #74c52b; letter-spacing: 0.3em"
-  >
-    <img
-      src="smallLogo.png"
-      width="60"
-      height="60"
-      class="d-inline-block align-top img-fluid"
-      style="position: fixed; top: 0"
-      alt=""
-      id="rotateIcon"
-    />
-    <span style="margin-left: 4em; margin-right: 0em"> MEDI-MATCH </span>
-  </a>
+  
   <button
     class="navbar-toggler"
     type="button"
