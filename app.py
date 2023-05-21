@@ -32,7 +32,7 @@ navbar="""<nav
     style="color: #74c52b; letter-spacing: 0.3em"
   >
     <img
-      src="/assets/img/smallLogo.png"
+      src="smallLogo.png"
       width="60"
       height="60"
       class="d-inline-block align-top img-fluid"
