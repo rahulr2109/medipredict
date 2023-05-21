@@ -112,7 +112,6 @@ streamlit==0.61.0
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
 tensorflow-datasets==3.1.0
-tensorflow-gpu==2.2.0rc4
 tensorflow-gpu-estimator==2.2.0
 tensorflow-metadata==0.21.2
 termcolor==1.1.0
