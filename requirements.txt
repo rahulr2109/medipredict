@@ -42,7 +42,6 @@ docutils==0.20.1
 entrypoints==0.4
 executing==1.2.0
 fastjsonschema==2.16.3
-flake8==6.0.0
 flatbuffers==23.3.3
 fonttools==4.39.3
 fqdn==1.5.1
