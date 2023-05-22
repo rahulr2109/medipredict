@@ -12,17 +12,10 @@ fastjsonschema==2.16.3
 joblib==1.2.0
 jsonpointer==2.3
 jsonschema==4.17.3
-keras==2.12.0
-keyring==23.13.1
 numpy==1.23.5
 numpydoc==1.5.0
-oauthlib==3.2.2
-opt-einsum==3.3.0
-packaging==23.0
-pandas==2.0.0
 scikit-learn==1.2.2
 scipy==1.10.1
-seaborn==0.12.2
 streamlit==1.22.0
 streamlit-option-menu==0.3.4
 text-unidecode==1.3
